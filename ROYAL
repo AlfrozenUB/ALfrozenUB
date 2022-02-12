@@ -5,10 +5,10 @@ _get_repolink () {
     regex='(https?)://github.com/.+/.+'
     if [[ $ROYAL_REPO == "ROYALBOT" ]]
     then
-        echo "aHR0cHM6Ly9naXRodWIuY29tL1RoZS1MZWdlbmRCb3QvTEVHRU5EVVNFUkJPVC9hcmNoaXZlL0xlZ2VuZEJvdC56aXA=" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL1RIRS1ST1lBTFNCT1QvUk9ZQUxEVVNFUkJPVC9hcmNoaXZlL21haW4uemlw" | base64 -d
     elif [[ $ROYAL_REPO == "ROYALBOT" ]]
     then
-        echo "aHR0cHM6Ly9naXRodWIuY29tL1RoZS1MZWdlbmRCb3QvTEVHRU5EVVNFUkJPVC9hcmNoaXZlL0xlZ2VuZEJvdC56aXA=" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL1RIRS1ST1lBTFNCT1QvUk9ZQUxEVVNFUkJPVC9hcmNoaXZlL21haW4uemlw" | base64 -d
     elif [[ $ROYAL_REPO =~ $regex ]]
     then
         if [[ $ROYAL_REPO_BRANCH ]]
@@ -18,15 +18,15 @@ _get_repolink () {
             echo "${ROYAL_REPO}/archive/master.zip"
         fi
     else
-        echo "aHR0cHM6Ly9naXRodWIuY29tL1RoZS1MZWdlbmRCb3QvTEVHRU5EVVNFUkJPVC9hcmNoaXZlL0xlZ2VuZEJvdC56aXA=" | base64 -d
+        echo "aHR0cHM6Ly9naXRodWIuY29tL1RIRS1ST1lBTFNCT1QvUk9ZQUxEVVNFUkJPVC9hcmNoaXZlL21haW4uemlw" | base64 -d
     fi
 }
 
 
-_setting_bot () {
+_sett_bot () {
     local zippath
-    zippath="RoyalBot.zip"
-    echo "  Downloading RoyalBot V3.O Source Code..."
+    zippath="ROYAL.zip"
+    echo "  Downloading RoyalBot Source Code..."
     wget -q $(_get_repolink) -O "$zippath"
     echo "  Unpacking Data ..."
     ROYALPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
@@ -36,13 +36,11 @@ _setting_bot () {
     rm -rf "$zippath"
     sleep 5
     cd $ROYALPATH
-    echo "    ⚜️Starting ROYAL USERBOT⚜️     "
-    echo "
-    🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳🇮🇳
-    "
+    echo " Starting ROYAL USERBOT⚜️     "
+    echo " ❤❤❤❤❤❤❤❤❤❤❤❤     "
 
     python3 ../setup/updater.py ../requirements.txt requirements.txt
     python3 -m userbot
 }
 
-_setting_bot
+_sett_bot
