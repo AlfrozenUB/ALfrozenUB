@@ -1,6 +1,6 @@
 {
   "name": "ROYAL USERBOT",
-  "description": "Tнє ßєѕτ υѕєяϐοτ мα∂є ϐγ THE ROYALS. Made with Love And By Python Language With Hardwork... ❤ ",
+  "description": "One Of The Best & Fastest Bot Made By The @Samim3316. Made with Love And By Python Language & Telethon",
   "logo": "https://telegra.ph/file/6b9b015224d9a080b1c63.jpg",
   "keywords": [
     "telegram",
@@ -19,7 +19,7 @@
       "value": "ANYTHING"
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name. By default it is ROYAL User",
+      "description": "Fill your Full name. By default it is (The Royals)",
       "value": "THE ROYALS",
       "required": false
     },
@@ -100,7 +100,7 @@
     },
     "PM_MSG": {
       "description": "Enter Your custom pm permit msg.",
-      "value": "нєℓℓο ѕιя / мιѕѕ,\nρℓєαѕє ∂οи'τ τяγ το ѕραм мγ мαѕτєя οτнєяωιѕє υ ωιℓℓ ϐℓοϲκє∂ ϐγ 𝖑𝖊ɠêɳ̃dẞø✞︎ 🇮🇳.\nℑ ωιℓℓ яєρℓγ υ αƒτєя ϲοмє ϐαϲκ οиℓιиє,\nτнαиκγου!",
+      "value": "Hello Sir\nPlease Dont Try To Spam Here Else Get Blocked By Assistant Of My Master",
       "required": false
     },
     "MAX_FLOOD_IN_PM": {
