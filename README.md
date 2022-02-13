@@ -2,7 +2,6 @@
 A simple & Fastest Telegram userbot based on Telethon .
 ![legenduserbot logo](https://telegra.ph/file/6b9b015224d9a080b1c63.jpg)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTHE-ROYALSBOT%2FROYAL-USERBOT&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/THE-ROYALSBOT/ROYAL-USERBOT)
-[![CodeFactor](https://www.codefactor.io/repository/github/THE-ROYALSBOT/ROYAL-USERBOT/badge?&style=flat-square)](https://www.codefactor.io/repository/github/THE-ROYALSBOT/ROYAL-USERBOT)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green?&style=flat-square)](https://GitHub.com/THE-ROYALSBOT/ROYAL-USERBOT/graphs/commit-activity) 
 ![Repo Size](https://img.shields.io/github/repo-size/THE-ROYALSBOT/ROYAL-USERBOT?&style=flat-square&logo=github)
