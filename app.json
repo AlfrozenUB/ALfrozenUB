@@ -1,31 +1,31 @@
 {
-  "name": "ROYAL USERBOT",
-  "description": "One Of The Best & Fastest Bot Made By The @Samim3316. Made with Love And By Python Language & Telethon",
-  "logo": "https://telegra.ph/file/6b9b015224d9a080b1c63.jpg",
+  "name": "Lêɠêɳ̃dẞø†",
+  "description": "Tнє ßєѕτ υѕєяϐοτ мα∂є ϐγ Lêɠêɳ̃dẞøY. Made with Love And By Python Language With Hardwork... ❤ ",
+  "logo": "https://te.legra.ph/file/d17467283e73c884834a5.jpg",
   "keywords": [
     "telegram",
     "userbot",
     "plugin",
-    "royalbot",
+    "legendbot",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/THE-ROYALSBOT/ROYAL-USERBOT/",
-  "website": "https://github.com/THE-ROYALSBOT/ROYAL-USERBOT/",
-  "success_url": "https://t.me/BR_guild",
+  "repository": "https://github.com/LEGEND-OS/LEGENDBOT/",
+  "website": "https://github.com/LEGEND-OS/LEGENDBOT/",
+  "success_url": "https://t.me/Legend_Userbot",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
       "value": "ANYTHING"
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name. By default it is (The Royals)",
-      "value": "THE ROYALS",
+      "description": "Fill your Full name. By default it is LEGEND User",
+      "value": "Lêɠêɳ̃dẞøY",
       "required": false
     },
     "ALIVE_MSG": {
-      "description": "Set Custom Alive Message When entering .alive Or .royal  Command.",
-      "value": "ROYAL USERBOT is Online",
+      "description": "Set Custom Alive Message When entering .alive Or .legend  Command.",
+      "value": "Lêɠêɳ̃dẞø† is Online",
       "required": false
     },
     "ABUSE": {
@@ -50,12 +50,12 @@
     },
     "YOUR_GROUP": {
       "description": "Set Ur Group Username",
-      "value": "@BR_guild",
+      "value": "@Legend_Userbot",
       "required": false
     },
     "YOUR_CHANNEL": {
       "description": "Set Ur Channel Username",
-      "value": "@The_royal_users",
+      "value": "@Official_LegendBot",
       "required": false
     },
     "BOY_OR_GIRL": {
@@ -100,7 +100,7 @@
     },
     "PM_MSG": {
       "description": "Enter Your custom pm permit msg.",
-      "value": "Hello Sir\nPlease Dont Try To Spam Here Else Get Blocked By Assistant Of My Master",
+      "value": "нєℓℓο ѕιя / мιѕѕ,\nρℓєαѕє ∂οи'τ τяγ το ѕραм мγ мαѕτєя οτнєяωιѕє υ ωιℓℓ ϐℓοϲκє∂ ϐγ 𝖑𝖊ɠêɳ̃dẞø✞︎ 🇮🇳.\nℑ ωιℓℓ яєρℓγ υ αƒτєя ϲοмє ϐαϲκ οиℓιиє,\nτнαиκγου!",
       "required": false
     },
     "MAX_FLOOD_IN_PM": {
@@ -140,8 +140,8 @@
       "description": "Copy Group Id And paste here To Get Plugin Channel ID copy and paste here",
       "value": ""
     }, 
-    "ROYAL_STRING": {
-      "description": "Get this value by running https://repl.it/@KrishnaJaiswal1/ROYALBOT#main.py ",
+    "LEGEND_STRING": {
+      "description": "Get this value by running https://repl.it/@KrishnaJaiswal1/LEGENDBOT#main.py ",
       "value": ""
     },
     "HEROKU_API_KEY": {
@@ -163,12 +163,12 @@
       "value": ""
     },
     "NO_OF_BUTTONS": {
-      "description": " Set The Amount Of Buttons Displayed In royal Command default 7",
+      "description": " Set The Amount Of Buttons Displayed In legend Command default 7",
       "value": "7",
       "required": true
     },
     "NO_OF_COLUMNS": {
-      "description": "Set The Amount Of Rows You Want To Displayed In royal Command default 2",
+      "description": "Set The Amount Of Rows You Want To Displayed In legend Command default 2",
       "value": "2",
       "required": true
     },
