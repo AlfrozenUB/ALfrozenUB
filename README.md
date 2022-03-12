@@ -5,7 +5,7 @@ A simple & Fastest Telegram userbot based on Telethon .
   - [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ### Repl 
- - [Repl](https://replit.com/@Shamim3316E/ROYALBOT#main.py)
+ - [String Session](https://github.com/AlfrozenSessionBot)
 ## Inspiration
-   - [LegendBoy](https://github.com/LEGEND-AI)
+   - [Elliot](https://github.com/MrElliotAlderson)
       
