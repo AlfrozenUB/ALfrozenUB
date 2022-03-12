@@ -3,10 +3,10 @@
 _get_repolink () {
     local regex
     regex='(https?)://github.com/.+/.+'
-    if [[ $ROYAL_REPO == "ROYALBOT" ]]
+    if [[ $ROYAL_REPO == "PLUGINS" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL1RIRS1ST1lBTFNCT1QvUk9ZQUxVU0VSQk9UL2FyY2hpdmUvbWFpbi56aXA=" | base64 -d
-    elif [[ $ROYAL_REPO == "ROYALBOT" ]]
+    elif [[ $ROYAL_REPO == "PLUGINS" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL1RIRS1ST1lBTFNCT1QvUk9ZQUxVU0VSQk9UL2FyY2hpdmUvbWFpbi56aXA=" | base64 -d
     elif [[ $ROYAL_REPO =~ $regex ]]
