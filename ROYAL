@@ -26,17 +26,17 @@ _get_repolink () {
 _sett_bot () {
     local zippath
     zippath="ROYAL.zip"
-    echo "  Downloading RoyalBot Source Code..."
+    echo "  Downloading Source Code..."
     wget -q $(_get_repolink) -O "$zippath"
     echo "  Unpacking Data ..."
     ROYALPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
     unzip -qq "$zippath"
     echo "Done"
-    echo "  RoyalBot V3.O Cleaning.."
+    echo "  V3.O Cleaning.."
     rm -rf "$zippath"
     sleep 5
     cd $ROYALPATH
-    echo " Starting ROYAL USERBOT⚜️     "
+    echo " Starting Alfrozen USERBOT⚜️     "
     echo " ❤❤❤❤❤❤❤❤❤❤❤❤     "
 
     python3 ../setup/updater.py ../requirements.txt requirements.txt
