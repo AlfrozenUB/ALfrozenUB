@@ -1,6 +1,6 @@
 {
-  "name": "ROYAL USERBOT",
-  "description": "One Of The Best & Fastest Bot Made By The @Samim3316. Made with Love And By Python Language & Telethon",
+  "name": "Alfrozen USERBOT",
+  "description": "One Of The Best & Fastest Bot. Made with Love And By Python Language & Telethon",
   "logo": "",
   "keywords": [
     "telegram",
@@ -10,7 +10,6 @@
     "productivity"
   ],
   "repository": "https://github.com/THE-ROYALSBOT/ROYAL-USERBOT/",
-  "website": "https://github.com/THE-ROYALSBOT/ROYAL-USERBOT/",
   "success_url": "https://t.me/BR_guild",
   "env": {
     "ENV": {
@@ -24,7 +23,7 @@
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .alive Or .royal  Command.",
-      "value": "ROYAL USERBOT is Online",
+      "value": "Alfrozen USERBOT is Online",
       "required": false
     },
     "ABUSE": {
@@ -49,7 +48,7 @@
     },
     "YOUR_GROUP": {
       "description": "Set Ur Group Username",
-      "value": "@BR_guild",
+      "value": "@AnimeChatAura",
       "required": false
     },
     "YOUR_CHANNEL": {
@@ -140,7 +139,7 @@
       "value": ""
     }, 
     "ROYAL_STRING": {
-      "description": "Get this value by running https://replit.com/@Shamim3316E/ROYALBOT#main.py ",
+      "description": "Get this value by running @AlfrozenSessionBot only!!!  ",
       "value": ""
     },
     "HEROKU_API_KEY": {
@@ -167,7 +166,7 @@
       "required": true
     },
     "NO_OF_COLUMNS": {
-      "description": "Set The Amount Of Rows You Want To Displayed In royal Command default 2",
+      "description": "Set The Amount Of Rows You Want To Displayed In Command default 2",
       "value": "2",
       "required": true
     },
