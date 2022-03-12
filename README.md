@@ -4,7 +4,7 @@ A simple & Fastest Telegram userbot based on Telethon .
 ### Heroku Deploy
   - [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-### Repl 
+### Session
  - [String Session](https://github.com/AlfrozenSessionBot)
 ## Inspiration
    - [Elliot](https://github.com/MrElliotAlderson)
