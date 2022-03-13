@@ -20,6 +20,15 @@ A simple & Fastest Telegram userbot based on Telethon .
 ### Session
  - [String Session](https://github.com/AlfrozenSessionBot)
 
+### How To Deploy?
+
+fork this repo and give star
+go to readme folder adn click on edit
+change the gitname to your github username
+Ex: https://heroku.com/deploy?template=https://github.com/Kajukatliii/AlfrozenUB < this is my one
+change it to
+https://heroku.com/deploy?template=https://github.com/YOUR-GIT-NAME/AlfrozenUB
+
              
 Your Telegram account may get banned.   
 AlfrozenUB or we are not responsible for your account, 
