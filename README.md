@@ -7,12 +7,12 @@ A simple & Fastest Telegram userbot based on Telethon .
 ![Repo Size](https://img.shields.io/github/repo-size/Kajukatliii/AlfrozenUB?&style=flat-square&logo=github)
 [![GitHub license](https://img.shields.io/github/license/Kajukatliii/AlfrozenUB?&style=flat-square&logo=github)](https://github.com/Kajukatliii/AlfrozenUB/blob/master/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/Kajukatliii/AlfrozenUB?&style=flat-square&logo=github)](https://github.com/Kajukatliii/AlfrozenUB/issues)
-[![PR Open](https://img.shields.io/github/issues-pr/Kajukatliii/AlfrozenUB?&style=flat-square&logo=github)](https://github.com/Kajukatliii/AlfrozenUB/pulls)
-[![PR Closed](https://img.shields.io/github/issues-pr-closed/Kajukatliii/AlfrozenUB?&style=flat-square&logo=github)](https://github.com/Kajukatliii/AlfrozenUB/pulls?q=is:closed)
-[![GitHub contributors](https://img.shields.io/github/contributors/Kajukatliii/AlfrozenUB?&style=flat-square&logo=github)](https://GitHub.com/Kajukatliii/AlfrozenUB/graphs/contributors/)
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Kajukatliii/AlfrozenUB?&style=flat-square&logo=github)](https://github.com/Kajukatliii/AlfrozenUB/graphs/commit-activity)
-[![GitHub forks](https://img.shields.io/github/forks/Kajukatliii/AlfrozenUB?&style=flat-square&logo=github)](https://github.com/Kajukatliii/AlfrozenUB/fork)
-[![GitHub stars](https://img.shields.io/github/stars/Kajukatliii/AlfrozenUB?&style=flat-square&logo=github)](https://github.com/Kajukatliii/AlfrozenUB/stargazers)
+[![PR Open](https://img.shields.io/github/issues-pr/AlfrozenUB/AlfrozenUB?&style=flat-square&logo=github)](https://github.com/AlfrozenUB/AlfrozenUB/pulls)
+[![PR Closed](https://img.shields.io/github/issues-pr-closed/AlfrozenUB/AlfrozenUB?&style=flat-square&logo=github)](https://github.com/AlfrozenUB/AlfrozenUB/pulls?q=is:closed)
+[![GitHub contributors](https://img.shields.io/github/contributors/AlfrozenUB/AlfrozenUB?&style=flat-square&logo=github)](https://GitHub.com/AlfrozenUB/AlfrozenUB/graphs/contributors/)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/AlfrozenUB/AlfrozenUB?&style=flat-square&logo=github)](https://github.com/AlfrozenUB/AlfrozenUB/graphs/commit-activity)
+[![GitHub forks](https://img.shields.io/github/forks/Kajukatliii/AlfrozenUB?&style=flat-square&logo=github)](https://github.com/AlfrozenUB/AlfrozenUB/fork)
+[![GitHub stars](https://img.shields.io/github/stars/Kajukatliii/AlfrozenUB?&style=flat-square&logo=github)](https://github.com/AlfrozenUB/AlfrozenUB/stargazers)
 
 ### Heroku Deploy
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/AlfrozenUB/AlfrozenUB"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
@@ -29,7 +29,7 @@ Ex: https://heroku.com/deploy?template=https://github.com/Kajukatliii/AlfrozenUB
 change it to
 https://heroku.com/deploy?template=https://github.com/YOUR-GIT-NAME/AlfrozenUB
 
-             
+### NOTE - Read full para!        
 Your Telegram account may get banned.   
 AlfrozenUB or we are not responsible for your account, 
 This bot is intended for the purpose of having fun with some fun commands 
