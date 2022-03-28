@@ -1,6 +1,6 @@
 # Alfrozen UserBot
 A simple & Fastest Telegram userbot based on Telethon .
-![legenduserbot logo](https://telegra.ph/file/b4c7082f2c22283d66394.jpg)
+![Alfrozen Userbot logo](https://telegra.ph/file/b3dd2190412c039f91936.jpg)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAlfrozenUB%2FAlfrozenUB&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/Kajukatliii/AlfrozenUB)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green?&style=flat-square)](https://GitHub.com/Kajukatliii/AlfrozenUB/graphs/commit-activity) 
