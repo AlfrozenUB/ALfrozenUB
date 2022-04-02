@@ -9,8 +9,8 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/THE-ROYALSBOT/ROYAL-USERBOT/",
-  "success_url": "https://t.me/BR_guild",
+  "repository": "https://github.com/ALfrozenUB/ALfrozenUB/",
+  "success_url": "https://t.me/ErinaSupport",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
@@ -48,12 +48,12 @@
     },
     "YOUR_GROUP": {
       "description": "Set Ur Group Username",
-      "value": "@AnimeChatAura",
+      "value": "@ErinsSUpport",
       "required": false
     },
     "YOUR_CHANNEL": {
       "description": "Set Ur Channel Username",
-      "value": "@The_royal_users",
+      "value": "@ALfrozenUb",
       "required": false
     },
     "BOY_OR_GIRL": {
